@@ -1,0 +1,1 @@
+curl --silent 'http://api.json > txt.json | cat txt.json | jq '.name'
